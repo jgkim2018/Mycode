@@ -25,6 +25,6 @@ void main(void)
 		for (int md = 0; md < 500000000; md++);
 		tmp++;
 	}
-	//
+	////
 	system("pause");
 }
